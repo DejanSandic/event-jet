@@ -1,0 +1,19 @@
+{
+  "name": "event-jet",
+  "version": "1.0.0",
+  "description": "Turbocharged event emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DejanSandic/event-jet.git"
+  },
+  "author": "Dejan Sandic - Deyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DejanSandic/event-jet/issues"
+  },
+  "homepage": "https://github.com/DejanSandic/event-jet#readme"
+}
